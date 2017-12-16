@@ -1,0 +1,11 @@
+{
+  "name": "checkoutsystem",
+  "version": "1.0.0",
+  "description": "DiUS checkout system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kristina Stoyanova",
+  "license": "ISC"
+}
