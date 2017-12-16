@@ -8,7 +8,7 @@ Discount rules:
 -----------------
 
 - 3 for 2 deal on Apple TVs. For example, if someone buys 3 Apple TVs, he or she will pay the price of 2 only
-- Super iPad will have a bulk discounted applied, where the price will drop to $499.99 each, if someone buys more than 4
+- Super iPad will have a bulk discount applied, where the price will drop to $499.99 each, if someone buys more than 4
 - VGA adapter free of charge with every MacBook Pro sold
 
 Products catalogue:
